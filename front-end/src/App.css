@@ -1,0 +1,33 @@
+h1{
+    font-weight: 700;
+    font-size: 57px;
+    line-height: 57px;
+    color: #222222;
+    margin-top:40px ;
+}
+p{
+    color: #222222;
+}
+.me img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+
+}
+.email{
+    border-bottom: 2px solid grey;
+    width: 21%;
+}
+.icons{
+    width: 50px;
+    height: 50px;
+    padding-right: 20px;
+}
+a{
+    text-decoration-color: grey;
+    color: #222222;
+}
+body{
+    margin-top: 100px;
+    background-color: #99DDC8 ;
+}
